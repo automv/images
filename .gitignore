@@ -1,0 +1,5 @@
+# 1. Ignore everything in the repo
+*
+
+# 2. Except for this .gitignore file
+!.gitignore
